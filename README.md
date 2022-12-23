@@ -2,6 +2,11 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+```shell
+# install snowpack
+npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force
+```
+
 ## Available Scripts
 
 ### npm start
